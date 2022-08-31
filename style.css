@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://th.bing.com/th/id/R.09b5fcb4d405b66d1f83c523b1c02121?rik=u8exk21vW1sZkQ&riu=http%3a%2f%2fadwallpapers.xyz%2fuploads%2fposts%2f76120-fallout-4-pipboy-screen-4k-ultra-hd-wallpaper__video-games.jpg&ehk=fZjGQ35noPjMiraczGctp%2fFN%2bmDTSJjrCD2eN%2bTyBuw%3d&risl=&pid=ImgRaw&r=0);
+  background-position: center;
+  background-size: 98%;
+  color: #ffffff;
+}
+
+button {
+  width: 15rem;
+  height: 10rem;
+  color: white;
+  background-color: #00FF00;
+}
+
+h5 {
+  border: 3px #00FF00 dashed;
+  padding: .5rem;
+  text-decoration: underline;
+  font-weight: bolder;
+}
